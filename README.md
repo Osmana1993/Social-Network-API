@@ -16,8 +16,8 @@ When the application is invoked, the server is started and Mongoose models are s
 * js
 * Express.js API
 * node.js
-* mysql
-* dotenv
+* mongo db
+* mongoose
 
 ## Usage
 
