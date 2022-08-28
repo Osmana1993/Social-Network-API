@@ -25,6 +25,14 @@ When the application is invoked, the server is started and Mongoose models are s
 
 
 
+https://user-images.githubusercontent.com/100746995/187056331-a324427e-342b-4976-99a8-2d0b2e8af3b9.mp4
+
+
+
+
+
+
+https://user-images.githubusercontent.com/100746995/187056368-5d95ee69-0d76-4f25-8f57-85cbbadaae44.mp4
 
 
 
